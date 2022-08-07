@@ -1,1 +1,1 @@
-sdasdadasdsa
+Pamiętaj ,że zawsze najpierw trzeba zrobić commit !! a póżniej to push-ować :D
