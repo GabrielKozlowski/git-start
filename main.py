@@ -1,1 +1,2 @@
-print("Hello Tarnów")
+print("Hello Kraków")
+print("Hello You")
