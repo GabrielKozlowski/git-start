@@ -1,1 +1,1 @@
-print("Hello Warszawa")
+print("Hello Kraków")
